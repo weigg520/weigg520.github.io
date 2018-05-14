@@ -75,7 +75,7 @@ html#outHtml,html#outHtml body{overflow: hidden;}
 .header .login a.rr:hover{background-position: -160px -30px;}
 
 .icon{ background: url(../images/mfwask.png) no-repeat;}
-.main{ margin-top:46px; font-size: 14px;}
+.main{ margin-top:46px; font-size: 14px;width:100%}
 .detailBox{float: left;margin-bottom: 80px;width: 100%}
 .crumb{height: 24px;overflow: hidden; padding: 25px 0 18px; line-height: 24px; color: #666;}
 .crumb a{color: #ff9d00;}
