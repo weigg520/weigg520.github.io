@@ -26,7 +26,7 @@ img,ul li input,ul li select,label,input{vertical-align:middle;}
 .clearfix{zoom: 1;}
 html{overflow-x: hidden;}
 html#outHtml,html#outHtml body{overflow: hidden;}
-.wrapper{ width:80%; margin: 0 auto;}
+.wrapper{ width:1000px; margin: 0 auto;}
 .fr{float:right;}
 .fl{float:left}
 
@@ -75,8 +75,8 @@ html#outHtml,html#outHtml body{overflow: hidden;}
 .header .login a.rr:hover{background-position: -160px -30px;}
 
 .icon{ background: url(../images/mfwask.png) no-repeat;}
-.main{ margin-top:46px; font-size: 14px;width:100%}
-.detailBox{float: left;margin-bottom: 80px;width: 100%}
+.main{ margin-top:46px; font-size: 14px;}
+.detailBox{float: left;margin-bottom: 80px;width: 700px}
 .crumb{height: 24px;overflow: hidden; padding: 25px 0 18px; line-height: 24px; color: #666;}
 .crumb a{color: #ff9d00;}
 .crumb a:hover{ text-decoration: underline;}
